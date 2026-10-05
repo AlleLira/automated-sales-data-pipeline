@@ -1,0 +1,32 @@
+2026-09-21 19:38:05 | INFO | ============================================================
+2026-09-21 19:38:05 | INFO | AUTOMATED SALES DATA PIPELINE
+2026-09-21 19:38:05 | INFO | ============================================================
+2026-09-21 19:38:05 | INFO | [INFO] Files found: 3
+2026-09-21 19:38:05 | INFO | 
+Processing: sales_store_101.xlsx
+2026-09-21 19:38:05 | INFO | [OK] Schema validated
+2026-09-21 19:38:05 | INFO | [OK] Data quality checks completed
+2026-09-21 19:38:05 | INFO | [OK] Categories standardized
+2026-09-21 19:38:05 | INFO | [OK] Sales totals calculated
+2026-09-21 19:38:05 | INFO | 
+Processing: sales_store_102.xlsx
+2026-09-21 19:38:05 | INFO | [OK] Schema validated
+2026-09-21 19:38:05 | INFO | [OK] Data quality checks completed
+2026-09-21 19:38:05 | INFO | [OK] Categories standardized
+2026-09-21 19:38:05 | INFO | [OK] Sales totals calculated
+2026-09-21 19:38:05 | INFO | 
+Processing: sales_store_103.xlsx
+2026-09-21 19:38:05 | INFO | [OK] Schema validated
+2026-09-21 19:38:05 | INFO | [OK] Data quality checks completed
+2026-09-21 19:38:05 | INFO | [OK] Categories standardized
+2026-09-21 19:38:05 | INFO | [OK] Sales totals calculated
+2026-09-21 19:38:05 | WARNING | [WARNING] Rejected rows: 4
+2026-09-21 19:38:05 | INFO | 
+============================================================
+2026-09-21 19:38:05 | INFO | PROCESS COMPLETED
+2026-09-21 19:38:05 | INFO | ============================================================
+2026-09-21 19:38:05 | INFO | Files processed: 3
+2026-09-21 19:38:05 | INFO | Valid rows: 9
+2026-09-21 19:38:05 | INFO | Rejected rows: 4
+2026-09-21 19:38:05 | INFO | Execution time: 0.126 seconds
+2026-09-21 19:38:05 | INFO | Output: /workspace/scratch/c7acd73462dc/automated-sales-data-pipeline/data/output/sales_consolidated.xlsx
